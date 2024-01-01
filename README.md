@@ -50,6 +50,8 @@ Run the following command to start the server:
 bash
 Copy code
 npm start
+
+
 API Documentation
 User Endpoints
 POST /users/signup: Register a new user.
